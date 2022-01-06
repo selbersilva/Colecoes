@@ -1,0 +1,15 @@
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\bin\Debug\net6.0\Exemplocolecoes.exe
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\bin\Debug\net6.0\Exemplocolecoes.deps.json
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\bin\Debug\net6.0\Exemplocolecoes.runtimeconfig.json
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\bin\Debug\net6.0\Exemplocolecoes.dll
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\bin\Debug\net6.0\ref\Exemplocolecoes.dll
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\bin\Debug\net6.0\Exemplocolecoes.pdb
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\obj\Debug\net6.0\Exemplocolecoes.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\obj\Debug\net6.0\Exemplocolecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\obj\Debug\net6.0\Exemplocolecoes.AssemblyInfoInputs.cache
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\obj\Debug\net6.0\Exemplocolecoes.AssemblyInfo.cs
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\obj\Debug\net6.0\Exemplocolecoes.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\obj\Debug\net6.0\Exemplocolecoes.dll
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\obj\Debug\net6.0\ref\Exemplocolecoes.dll
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\obj\Debug\net6.0\Exemplocolecoes.pdb
+C:\Users\Windows\OneDrive\Documentos\dio\Colecoes\ExemploColecoes\obj\Debug\net6.0\Exemplocolecoes.genruntimeconfig.cache
